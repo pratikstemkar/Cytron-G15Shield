@@ -1,4 +1,4 @@
-# setVoltageLimit() #
+# setWheelMode() #
 
 ## Description ##
 This function is to set G15 to wheel mode which able to rotate continously in the defined direction.
